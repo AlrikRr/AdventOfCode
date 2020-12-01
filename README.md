@@ -1,1 +1,5 @@
 # AdventOfCode
+
+Coding and chilling.  
+
+
